@@ -9,4 +9,4 @@ puts "#{partA[rand(2)]} #{partB[rand(2)]}"
 
 #simple example of a random message
 
-#comment from numA branch
+#comment from numB
